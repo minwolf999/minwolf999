@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-### I'm Antoine MArvin - A Passionate Developer & Lifelong Learner
+### I'm Antoine Marvin - A Passionate Developer & Lifelong Learner
 
 Welcome to my GitHub! I'm a young programmer with a deep passion for coding and technology. My goal is to explore and master as many programming languages and technologies as possible. I'm constantly learning and growing, and this space showcases my journey.
 
