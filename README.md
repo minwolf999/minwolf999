@@ -29,6 +29,13 @@ I'm also experienced with the following tools and technologies:
 
 ---
 
+### 📊 GitHub Statistics
+
+| ![Minwolf999's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwolf999&show_icons=true&theme=cobalt) | [![Minwolf999's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=minwolf999&theme=cobalt&show_icons=true&hide=css)](https://github.com/minwolf999) |
+| :---: | :---: |
+
+---
+
 ## 🌱 What I'm Learning Now
 - I'm currently diving deeper into AI and front-end JavaScript.
 
