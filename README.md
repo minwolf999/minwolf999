@@ -31,6 +31,8 @@ I'm also experienced with the following tools and technologies:
 
 ### 📊 GitHub Statistics
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=minwolf999&theme=discord&column=3&margin-w=15&margin-h=15" alt="minwolf999"></p><br>
+
 | ![Minwolf999's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwolf999&show_icons=true&theme=cobalt) | [![Minwolf999's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=minwolf999&theme=cobalt&show_icons=true&hide=css,blade&langs_count=10)](https://github.com/minwolf999) |
 |-|-|
 
