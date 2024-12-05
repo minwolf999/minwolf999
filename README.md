@@ -43,6 +43,9 @@ I'm also experienced with the following tools and technologies:
 | ![Minwolf999's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwolf999&show_icons=true&theme=cobalt&rank_icon=github&border_radius=10) | [![Minwolf999's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=minwolf999&theme=cobalt&show_icons=true&langs_count=10&border_radius=20)](https://github.com/minwolf999) |
 |-|-|
 
+| [![](https://visitcount.itsvg.in/api?id=minwolf999&icon=0&color=0)](https://visitcount.itsvg.in) |
+|-|
+
 ---
 
 ## 🌱 What I'm Learning Now
